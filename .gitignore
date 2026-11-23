@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+
+# Build output
+SynthCityRadio2D/SynthCityRadio2D/x64/
+**/x64/
+**/Debug/
+**/Release/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.res
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+
+# Textures are supplied locally
+SynthCityRadio2D/Textures/city-background.png
+SynthCityRadio2D/Textures/night-sky.jpg
